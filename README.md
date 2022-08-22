@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunny Parmar
 - 👀 I’m interested in System and Network Administration, Networking and IT Solutions 
-- 🌱 I’m currently working as sysytem admin in a MNC
-- 💞️ I’m looking to collaborate on Network Security
+- 🌱 I’m currently working as Global IT Support Specialist in a ABB Limited
+- 💞️ I’m looking to collaborate on Network Security, IT ServiceDesk Support
 - 📫 reach me on twinkalinfotech@gmail.com
 
 <!---
